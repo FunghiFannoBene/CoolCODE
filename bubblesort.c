@@ -37,3 +37,4 @@ int main()
         printf("%d\n",nums[i++]);
     }
 }
+//sposta all'ultima posizione il max num e scala di 1.
